@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/touchstone-github-banner.png"
+       alt="Touchstone Infotech - AI-Powered Revenue Systems"
+       width="100%">
+</p>
+
 # Touchstone Infotech
 
 ### AI-Powered Revenue Systems for Real Estate, Clinics, Education & Ecommerce
